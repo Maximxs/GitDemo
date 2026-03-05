@@ -1,0 +1,44 @@
+MEAN Stack
+    >> M: Mongo DB (Dtabase)
+    >> E: ExpreeJs (Bckend)
+    >> A: Angular (Frontend)
+    >> N: NodeJs (Backend)
+
+
+    Three Pillars: 
+        >> HTML (Hyper Text Markup Language)
+        >> CSS (Cascading Style Sheet)
+        >> JS (Java Script)
+
+
+        MEAN, MERN, Java Full Stack 
+
+        Web Dev 
+            >> Building/Developers Team 
+            >> Testing Team (Manual Testers/Automated Testers)
+            >> Hosting Team
+            >> Maintenance Team/support Team
+
+            SDLC (Software Development life Cycle):
+            >> Waterfall Model
+            >> Agile Model 
+            >> Spiral Model
+            >> Iteractive Model 
+            >> Incremental Model 
+            >> V Shaped Model
+            >> RAD Model (Rapid Application Development)
+
+
+            URL (Uniform Resource Locator)
+                https://www.instagram.com/
+                https://education.rohanAcademy.edu/FullStack
+
+
+                https: Protocol
+                rohanAcademy: Server Domain
+                education: Sub-Domain
+                .edu: TLD (Top Level Domain)
+                FullStack: Path/Location
+
+
+                Protocol

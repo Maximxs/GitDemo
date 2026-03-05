@@ -1,0 +1,5 @@
+git pull origin main
+
+git status
+
+git add 1_Funda_Of_Web_Tech.txt
